@@ -28,19 +28,19 @@ DSA-Solutions/
 │   ├── C++/
 │   │   ├── Easy/
 │   │   ├── Medium/
-│   │   └── Hard/
+│   │   ├── Hard/
+│   │   └── README.md
 │   ├── Java/
 │   │   ├── Easy/
 │   │   ├── Medium/
-│   │   └── Hard/
+│   │   ├── Hard/
+│   │   └── README.md
 │
 ├── Codeforces/
 │   ├── C++/
 │   │   ├── 800/
-│   │   └── 900/
-│   ├── Java/
-│   │   ├── 800/
-│   │   └── 900/
+│   │   ├── 900/
+│   │   └── README.md
 │
 └── README.md
 
