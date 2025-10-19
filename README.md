@@ -25,27 +25,25 @@ I’m documenting my **learning journey** of Data Structures and Algorithms — 
 DSA-Solutions/
 │
 ├── LeetCode/
-│   ├── Easy/
-│   │   ├── Two-sum.cpp
-│   │   ├── Plus-one.cpp
-│   │   └── ...
-│   ├── Medium/
-│   │   ├── add-two-numbers.cpp
-│   │   └── ...
-│   ├── Hard/
-│   │   └── word-break-ii.cpp
-│   └── README.md
+│   ├── C++/
+│   │   ├── Easy/
+│   │   ├── Medium/
+│   │   └── Hard/
+│   ├── Java/
+│   │   ├── Easy/
+│   │   ├── Medium/
+│   │   └── Hard/
 │
 ├── Codeforces/
-│   ├── 800/
-│   │   ├── candies-for-nephews.cpp
-│   │   └── ...
-│   ├── 900/
-│   │   └── A-and-B
-|   |   └── ...
-│   └── README.md
+│   ├── C++/
+│   │   ├── 800/
+│   │   └── 900/
+│   ├── Java/
+│   │   ├── 800/
+│   │   └── 900/
 │
 └── README.md
+
 ```
 
 ---
