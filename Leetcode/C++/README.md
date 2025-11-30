@@ -15,3 +15,13 @@ This folder contains my C++ solutions for LeetCode problems.
 - **Longest Common Prefix**: string manipulation  
 - **Remove Duplicates from Sorted Array**: in-place array operations
 - **Plus One**: Shows edge cases handling for arrays/number manipulation
+
+## Updates - 30 Nov 2025
+**Solved Problems:**  
+- **Find Peek Element**
+- **Single element In a Sorted Array**
+- **Find Minimum In Rotated Sorted Array**
+- **Search In Rotated Sorted Array**
+- **Search In Rotated Sorted Array II**
+- **Find First and Last Position of Element in Sorted Array**
+- **Binary Search**
